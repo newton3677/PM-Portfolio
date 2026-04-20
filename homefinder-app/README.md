@@ -8,7 +8,7 @@ HomeFinder eliminates the middleman — giving renters direct access to verified
 
 Target Users:
 Chidi Okonkwo is the Struggling Urban Professional — 25-34, Abuja/Lagos
-Amaka BelloThe Student who is a First-Time Renter — 18-24, University cities
+Amaka Bello is the Student who is a First-Time Renter — 18-24, University cities
 
 Research Summary
 
