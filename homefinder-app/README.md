@@ -6,13 +6,14 @@
 
 ## Problem Statement
 
-House hunting in Nigeria is broken. Renters face dishonest agents, misrepresented listings, hidden fees, and a search process that takes months. 80% of our survey respondents used agents and described overwhelmingly negative experiences. 60% spent over 3 months searching for a home.
+Renters in Nigeria struggle to find affordable homes because dishonest agents misrepresent listings, inflate prices and gate-keep access to landlords — resulting in searches that take months and cost more than necessary. We believe a direct landlord-to-renter platform will solve this by eliminating the middleman, giving renters transparent pricing, verified listings and full control of their home search.
 
 **HomeFinder eliminates the middleman** — giving renters direct access to verified landlords, transparent pricing, and a faster path to finding a home.
 
 ---
 
 ## Target Users
+Renters in Nigeria
 
 | Persona | Description |
 |---|---|
