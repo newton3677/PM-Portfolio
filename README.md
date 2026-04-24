@@ -2,7 +2,7 @@
 
 > Documenting real product work, user research, and end-to-end project execution.
 
-
+---
 
 ## About Me
 
@@ -10,11 +10,11 @@ I am a Product Manager with a focus on building user-centred digital products fo
 
 This repository documents my active projects, research work, personas, sprint outputs, and product decisions — the full picture of how I think and work as a PM.
 
- Nigeria  
- [LinkedIn](https://www.linkedin.com/in/adejumo-adeyemi-253562146)  
- Open to collaborations and product conversations
+📍 Nigeria
+🔗 [LinkedIn](https://www.linkedin.com/in/adejumo-adeyemi-253562146)
+📧 Open to collaborations and product conversations
 
-
+---
 
 ## Current Projects
 
@@ -23,23 +23,22 @@ This repository documents my active projects, research work, personas, sprint ou
 
 | Detail | Info |
 |---|---|
-| Stage | Discovery & Research |
+| Stage | Sprint 2 — Define & User Stories |
 | Methodology | Agile — Scrum |
 | Tools | Jira, Google Forms, Figma (coming) |
-| Team | 4 person |
 | Stack | To be built with Claude Code |
 
 **Project Folder →** [`/homefinder-app`](./homefinder-app)
 
-
+---
 
 ## Project Index
 
 | Project | Status | Description |
 |---|---|---|
-| [HomeFinder App](./homefinder-app) | 🟡 In Progress | House hunting app — Sprint 1 complete |
+| [HomeFinder App](./homefinder-app) | 🟡 In Progress | House hunting app — Sprint 2 active |
 
-
+---
 
 ## How I Work
 
@@ -48,13 +47,13 @@ Discover → Define → Plan → Build → Review → Iterate
 ```
 
 1. **Discover** — User surveys, interviews, pain point mapping
-2. **Define** — Personas, problem statements
+2. **Define** — Personas, problem statements, feature prioritisation
 3. **Plan** — Jira backlog, user stories, sprint planning
-4. **Build** — Build with Claude code, manage delivery
+4. **Build** — Collaborate with dev team, manage delivery
 5. **Review** — Sprint reviews, QA, stakeholder feedback
 6. **Iterate** — Retros, refinement, next sprint
 
-
+---
 
 ## Tools & Stack
 
@@ -62,41 +61,52 @@ Discover → Define → Plan → Build → Review → Iterate
 |---|---|
 | Project Management | Jira |
 | Research | Google Forms |
-| Design (coming) | Claude design |
+| Design (coming) | Figma |
 | Documentation | GitHub, Markdown |
-| Communication | WhatsApp |
+| Communication | Slack, WhatsApp |
 | Development | Claude Code |
 
+---
 
 ## Repository Structure
 
 ```
-adejumo-pm-portfolio/
+PM-Portfolio/
 │
-├── README.md                  ← You are here
+├── README.md                        ← You are here — Portfolio homepage
 │
 └── homefinder-app/
-    ├── README.md              ← Project overview
-    ├── research/
-    │   ├── survey-questions.md
-    │   ├── survey-analysis.docx
-    │   └── personas.pdf
-    ├── user-stories/          ← Sprint 2
-    ├── wireframes/            ← Coming
-    └── sprint-reviews/        ← Updated each sprint
+    │
+    ├── README.md                    ← Project overview & sprint tracker
+    │
+    ├── research/                    ← Sprint 1 deliverables ✅
+    │   ├── HomeFinder_Survey_Analysis.docx
+    │   └── HomeFinder_Personas.pdf
+    │
+    ├── sprint-2/                    ← Sprint 2 deliverables 🟡
+    │   ├── problem-statement.md
+    │   ├── core-features.md
+    │   └── user-stories.md          ← Coming
+    │
+    ├── sprint-3/                    ← Coming — Build
+    │   └── sprint-review.md
+    │
+    └── sprint-4/                    ← Coming — Test & Iterate
+        └── sprint-review.md
 ```
 
-
+---
 
 ## Sprint Tracker — HomeFinder App
 
 | Sprint | Goal | Status | Dates |
 |---|---|---|---|
 | Sprint 1 | Discovery & Research | ✅ Complete | Apr 8 – Apr 15, 2026 |
-| Sprint 2 | Define & User Stories | 🟡 Up Next | TBD |
+| Sprint 2 | Define & User Stories | 🟡 In Progress | Apr 16 – Apr 23, 2026 |
 | Sprint 3 | Build — Core Features | ⬜ Planned | TBD |
 | Sprint 4 | Testing & Iteration | ⬜ Planned | TBD |
 
-
+---
 
 *This portfolio is actively updated after every sprint.*
+*Last updated: 24th April 2026*
